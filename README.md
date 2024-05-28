@@ -6,11 +6,11 @@
 ### Creating a Staging Environment for EKS: 
 ### Enhancing Your EKS Staging Environment: 
 ### Deploying an Application to Your EKS Cluster:
-#### Building Containerized Application
-#### Deploying Containerized Application
-#### Enabling Horizontal Pod Autoscaler (HPA)
-#### Managing Change
-#### Deleting Your Infrastructure
+  #### Building Containerized Application
+  #### Deploying Containerized Application
+  #### Enabling Horizontal Pod Autoscaler (HPA)
+  #### Managing Change
+  #### Deleting Your Infrastructure
 
 ## Accessing, Expanding, and Troubleshooting an EKS Cluster
 ### EKS Networking: 
