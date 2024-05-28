@@ -5,7 +5,12 @@
 ### Automating EKS Setup and Management: 
 ### Creating a Staging Environment for EKS: 
 ### Enhancing Your EKS Staging Environment: 
-### Deploying an Application to Your EKS Cluster
+### Deploying an Application to Your EKS Cluster:
+#### Building Containerized Application
+#### Deploying Containerized Application
+#### Enabling Horizontal Pod Autoscaler (HPA)
+#### Managing Change
+#### Deleting Your Infrastructure
 
 ## Accessing, Expanding, and Troubleshooting an EKS Cluster
 ### EKS Networking: 
@@ -14,10 +19,10 @@
 ### Troubleshooting in EKS: 
 ### Tracing a Request: 
 ### Collecting & Visualizing Logs & Metrics: 
-### Expanding the EKS Cluster
+### Expanding the EKS Cluster:
 
 ## Optimizing an EKS Cluster for Price and Performance
-### Growing Cost Awareness: 
+### Cost Awareness: 
 ### Optimizing Computing Costs: 
 ### Running Serverless with Fargate: 
 ### Optimizing Storage Costs: 
@@ -28,14 +33,14 @@
 ### Accessing Data from RDS Instance within EKS: 
 ### Accessing Data from Elasticache within EKS: 
 ### Accessing Data from S3 Bucket within EKS Cluster: 
-### Using Elastic File System Volumes from Pod
+### Using Elastic File System Volumes from Pod:
 
 ## Securing an EKS Cluster
 ### IAM User, Role, and Group: 
 ### Kubernetes Security for Applications: 
 ### Understanding Kubeconfig: 
 ### Granting Admin Access to Other Users: 
-### Granting Granular Access to Other Users Using RBAC
+### Granting Granular Access to Other Users Using RBAC:
 
 ## GitOps Automations for Multiple EKS Environments
 ### Designing an Optimized Development Process for EKS: 
@@ -43,4 +48,4 @@
 ### Using AWS Organizations: 
 ### Configuring Development EKS Cluster: 
 ### Configuring Production EKS Cluster: 
-### Releasing Applications into Production
+### Releasing Applications into Production:
